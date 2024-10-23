@@ -1,7 +1,7 @@
 # PINNs-framework
 
 ## Overview
-This repository is an ongoing development of a framework that involves using PINNs (Physics Informed Neural Networks) to solve both forward and inverse problems. The idea of PINNs was introduced by Raissi in 2019 as a method of embedding knowledge of physical systems into neural networks so that they may more effectively learn the analytical solution. 
+This repository is an ongoing development of a framework that involves using PINNs (Physics Informed Neural Networks) to solve both forward and inverse problems. The idea of PINNs was introduced by [Raissi et al.](https://www.sciencedirect.com/science/article/pii/S0021999118307125) in 2019 as a method of embedding knowledge of physical systems into neural networks so that they may more effectively learn the analytical solution. 
 
 
 ### Benchmark
