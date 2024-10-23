@@ -5,7 +5,9 @@ This repository is an ongoing development of a framework that involves using PIN
 
 ### Benchmark
 For the application of environmental forensics, pollutant tracking or source identification is particularly of interest. As a benchmark case, this study will look at the advection diffusion PDE in 1D, which can be described with
-$$ u_t = c^2 u_{xx} - \beta u_x $$
+```math
+u_t = c^2 u_{xx} - \beta u_x 
+```
 
 ### PINNs for Forward Problems 
 The forward problem formulation for PINNs involves solving for the solution $u$ given a PDE with some intial and boundary conditions. 
